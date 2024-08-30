@@ -4,7 +4,7 @@
 - Coin Ticker: MIRAI
 - Max Supply: 22,073,017
 - Block Time: 60s
-- Premine: 100,000
+- Premine: 150,000
 - Distribution: Masternode 80% / PoS 15% / Dev 5%
 - P2P Port: 30075
 - RPC Port: 30076
