@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Mirainodes 
+Comment=Mirainodes P2P Cryptocurrency
+Comment[fr]=Mirainodes, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Mirainodes, eşten eşe kriptografik sanal para birimi
+Exec=mirai-qt %u
+Terminal=false
+Type=Application
+Icon=mirai128
+MimeType=x-scheme-handler/mirai;
+Categories=Office;Finance;
+StartupWMClass=mirai-qt

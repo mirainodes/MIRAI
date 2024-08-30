@@ -1,0 +1,6 @@
+usr/local/bin/mirai-qt usr/bin
+share/pixmaps/mirai32.xpm usr/share/pixmaps
+share/pixmaps/mirai16.xpm usr/share/pixmaps
+share/pixmaps/mirai128.png usr/share/pixmaps
+debian/mirai-qt.desktop usr/share/applications
+debian/mirai-qt.protocol usr/share/kde4/services/
