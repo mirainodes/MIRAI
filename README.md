@@ -2,7 +2,7 @@
 
 - Coin Name: Mirainodes Cash
 - Coin Ticker: MIRAI
-- Max Supply: 10,000,000
+- Max Supply: 22,073,017
 - Block Time: 60s
 - Premine: 100,000
 - Distribution: Masternode 80% / PoS 15% / Dev 5%
