@@ -1,6 +1,6 @@
 # Mirainodes Blockchain Specification
 
-- Coin Name: Mirainodes Cash
+- Coin Name: Mirainodes
 - Coin Ticker: MIRAI
 - Max Supply: 22,073,017
 - Block Time: 60s
